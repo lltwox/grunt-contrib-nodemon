@@ -18,18 +18,16 @@
   "author": "Chris Wren",
   "license": "MIT",
   "peerDependencies": {
-    "grunt": "~1.0.1"
+    "grunt": "^1.2.1"
   },
   "devDependencies": {
-    "grunt": "^1.0.1",
-    "grunt-contrib-jshint": "^1.0.0",
-    "grunt-release": "^0.14.0",
+    "grunt": "^1.2.1",
+    "grunt-contrib-jshint": "^2.1.0",
     "grunt-simple-mocha": "^0.4.0",
-    "matchdep": "^1.0.0",
-    "mdlint": "^0.1.0",
-    "should": "^11.1.0"
+    "matchdep": "^2.0.0",
+    "should": "^13.2.3"
   },
   "dependencies": {
-    "nodemon": "2.0.2"
+    "nodemon": "2.0.4"
   }
 }
